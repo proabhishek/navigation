@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.3fe0d30a.css","mappings":"AACA,QACM,uBACN,CAEA,UACI,iBACJ,CACA,gBACI,sBAEJ","sources":["style.css"],"sourcesContent":["\n.navbar {\n      background-color: tomato;\n}\n\n.navbar a{\n    margin-right: 10px;\n}\n.navbar .active{\n    background-color: green;\n\n}"],"names":[],"sourceRoot":""}
