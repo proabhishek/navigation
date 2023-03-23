@@ -18,3 +18,20 @@
 .product .header a{
     margin-right: 10px;
 }
+
+
+.users{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.users div{
+    width: 200px;
+    height: 200px;
+    background-color: tomato;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 10px;
+    
+}

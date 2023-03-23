@@ -23,9 +23,12 @@ const App = () => {
              <Routes>
                 
 
+             <Route path="/users" element={<Users />} /> 
+
                  {/* <Route path="linkedin/:userName" element={<LinkedIn />} /> */}
 
-                    <Route path="users/:userId" element={<Users />} />
+                    {/* <Route path="users/:userId" element={<Users />} /> */}
+
 
                  {/* <Route path="linkedin/abhishek" element={<LinkedIn />} />
                  <Route path="linkedin/anubhav" element={<LinkedIn />} />
