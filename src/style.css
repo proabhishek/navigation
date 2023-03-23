@@ -10,3 +10,11 @@
     background-color: green;
 
 }
+
+.product .header{
+    background-color: tomato;
+    
+}
+.product .header a{
+    margin-right: 10px;
+}
